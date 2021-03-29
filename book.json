@@ -1,0 +1,13 @@
+{
+    "plugins": [
+	    "katex",
+	    "anchors",
+	    "splitter",
+	    "prism",
+	    "-highlight",
+	    "book-summary-scroll-position-saver",
+	    "tbfed-pagefooter",
+	    "expandable-chapters",
+	    "search"
+    ]
+}
